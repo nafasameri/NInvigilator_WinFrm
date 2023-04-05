@@ -1,0 +1,9 @@
+E:\Projects VS\NInvigilator_WinFrm\NInvigilator_WinFrm\bin\Debug\NInvigilator_WinFrm.exe.config
+E:\Projects VS\NInvigilator_WinFrm\NInvigilator_WinFrm\bin\Debug\NInvigilator_WinFrm.exe
+E:\Projects VS\NInvigilator_WinFrm\NInvigilator_WinFrm\bin\Debug\NInvigilator_WinFrm.pdb
+E:\Projects VS\NInvigilator_WinFrm\NInvigilator_WinFrm\obj\Debug\NInvigilator_WinFrm.csprojResolveAssemblyReference.cache
+E:\Projects VS\NInvigilator_WinFrm\NInvigilator_WinFrm\obj\Debug\NInvigilator_WinFrm.Form1.resources
+E:\Projects VS\NInvigilator_WinFrm\NInvigilator_WinFrm\obj\Debug\NInvigilator_WinFrm.Properties.Resources.resources
+E:\Projects VS\NInvigilator_WinFrm\NInvigilator_WinFrm\obj\Debug\NInvigilator_WinFrm.csproj.GenerateResource.Cache
+E:\Projects VS\NInvigilator_WinFrm\NInvigilator_WinFrm\obj\Debug\NInvigilator_WinFrm.exe
+E:\Projects VS\NInvigilator_WinFrm\NInvigilator_WinFrm\obj\Debug\NInvigilator_WinFrm.pdb
